@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.input{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
